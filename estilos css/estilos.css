@@ -5,7 +5,9 @@ body{
 
 }
 p{
-    font-family: 'Courier New', Courier, monospace;}
+    font-family: 'Courier New', Courier, monospace;
+    color:darkred;
+}
 h1{
     color: brown;
 }
